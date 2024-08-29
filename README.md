@@ -1,1 +1,1 @@
-This project taks informations in xslx file and push those into a Google docx file.
+This project takes the information from the xlsx file and exports it into individual Google docx files.
